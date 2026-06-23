@@ -1,0 +1,9 @@
+feature_id,feature_name,category,description,complexity
+FEAT001,Crypto-Wallet,Investments,"Buy, sell, hold crypto assets",High
+FEAT002,Savings Goals,Savings,Goal-based savings buckets,Medium
+FEAT003,Budgeting Tools,Finance Management,Income vs expense tracker,Medium
+FEAT004,Instant Transfer,Payments,Real-time P2P transfers,Low
+FEAT005,Bill Pay,Payments,Automated bill scheduling,Low
+FEAT006,FD Booking,Investments,Fixed deposit management,Medium
+FEAT007,Loan Marketplace,Credit,Pre-approved loan offers,High
+FEAT008,Insurance Hub,Protection,Term & health insurance,High
